@@ -1,6 +1,6 @@
 # Linear Regressions
 
-[PR]()
+[PR](https://github.com/Hamza-Rashed/Linear-Regressions/pull/1)
 
 * Load the data you receive into a Pandas DataFrame.
 * Show the first five rows of the data set.
